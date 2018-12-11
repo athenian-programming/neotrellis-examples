@@ -1,4 +1,4 @@
 # Adafruit Neotrellis M4 Express Examples
 
-* [Shake Detection](code/simple_shaken.py)
+* [Shake Detection](code/shake_detection.py)
 
